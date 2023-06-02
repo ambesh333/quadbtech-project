@@ -8,15 +8,15 @@
 ```shell
 git clone https://github.com/ambesh333/quadbtech-project.git
 ```
-3. Install the dependencies using npm:
+2. Install the dependencies using npm:
 ```
 npm install
 ```
-4.To start the website, run the following command:
+3.To start the website, run the following command:
 ```
 npm run start
 ```
-The website hosted link:
+4.The website hosted link:
 ```
 https://quadtech.netlify.app/
 ```
