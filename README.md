@@ -16,7 +16,7 @@ npm install
 ```
 npm run start
 ```
-###The website hosted link:
+The website hosted link:
 ```
 https://quadtech.netlify.app/
 ```
