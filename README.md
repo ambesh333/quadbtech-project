@@ -18,6 +18,6 @@ npm run start
 ```
 ###The website hosted link:
 ```
-https://grocare-ytclone.netlify.app/ 
+https://quadtech.netlify.app/
 ```
 
